@@ -10,9 +10,13 @@ Sobre el botón que remueve los items del carrito, existen de 3 tipos. Uno remue
 
 Se tuvo presente la filosofía "Mobile-First Responsive Design para el diseño de las secciones. 
 
-Algunos elementos, como los botones, usan la tendencia del neomorfismo que brinda un efecto visual 3D. Hice esta web teniendo en mente la experiencia de usuario, espero sea del agrado de todos. 
+Algunos elementos, como los botones, usan la tendencia del neomorfismo que brinda un efecto visual 3D. Hice esta web teniendo en mente la experiencia de usuario, así que espero puedan disfrutar al verla. 
+
+Que tengan una gran experiencia
 
 Gracias!
+
+Ana Gabriela Paz
 
 
 
